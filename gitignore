@@ -1,0 +1,5 @@
+# RStudio and R files that shouldn't go on GitHub
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
