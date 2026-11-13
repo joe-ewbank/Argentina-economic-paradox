@@ -51,10 +51,10 @@ Argentina compared with Brazil, Chile and Uruguay (grey). Gaps in Argentina's li
 ├── run_all.R          ← runs all four scripts in order
 ├── data/              ← raw data files
 ├── scripts/
-│   ├── 01_gdp_1860_1929.R
-│   ├── 02_gdp_vs_uk.R
-│   ├── 03_fdi.R
-│   └── 04_inflation.R
+│   ├── graph_1_gdp_with_spain.R
+│   ├── graph_2_arg_and_uk.R
+│   ├── graph_3_fdi.R
+│   └── graph_4_inflation.R
 └── output/            ← the graphs (PNG)
 ```
 
