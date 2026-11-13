@@ -1,0 +1,189 @@
+Entity,Code,Year,GDP per capita
+Argentina,ARG,1929,6961
+Argentina,ARG,1930,6503
+Argentina,ARG,1931,5917
+Argentina,ARG,1932,5614
+Argentina,ARG,1933,5772
+Argentina,ARG,1934,6129
+Argentina,ARG,1935,6296
+Argentina,ARG,1936,6236
+Argentina,ARG,1937,6575
+Argentina,ARG,1938,6491
+Argentina,ARG,1939,6612
+Argentina,ARG,1940,6633
+Argentina,ARG,1941,6861
+Argentina,ARG,1942,6829
+Argentina,ARG,1943,6666
+Argentina,ARG,1944,7299
+Argentina,ARG,1945,6943
+Argentina,ARG,1946,7436
+Argentina,ARG,1947,8112
+Argentina,ARG,1948,8372
+Argentina,ARG,1949,8045
+Argentina,ARG,1950,7949
+Argentina,ARG,1951,8086
+Argentina,ARG,1952,7519
+Argentina,ARG,1953,7769
+Argentina,ARG,1954,7938
+Argentina,ARG,1955,8348
+Argentina,ARG,1956,8424
+Argentina,ARG,1957,8705
+Argentina,ARG,1958,9083
+Argentina,ARG,1959,8354
+Argentina,ARG,1960,8861
+Argentina,ARG,1961,9344
+Argentina,ARG,1962,9049
+Argentina,ARG,1963,8695
+Argentina,ARG,1964,9446
+Argentina,ARG,1965,10155
+Argentina,ARG,1966,10076
+Argentina,ARG,1967,10200
+Argentina,ARG,1968,10485
+Argentina,ARG,1969,11217
+Argentina,ARG,1970,11639
+Argentina,ARG,1971,12003
+Argentina,ARG,1972,12170
+Argentina,ARG,1973,12691
+Argentina,ARG,1974,13284
+Argentina,ARG,1975,12946
+Argentina,ARG,1976,12696
+Argentina,ARG,1977,13236
+Argentina,ARG,1978,12444
+Argentina,ARG,1979,13114
+Argentina,ARG,1980,13080
+Argentina,ARG,1981,12125
+Argentina,ARG,1982,11550
+Argentina,ARG,1983,11775
+Argentina,ARG,1984,11837
+Argentina,ARG,1985,10895
+Argentina,ARG,1986,11515
+Argentina,ARG,1987,11633
+Argentina,ARG,1988,11244
+Argentina,ARG,1989,10393
+Argentina,ARG,1990,10254
+Argentina,ARG,1991,11223.984
+Argentina,ARG,1992,12267.084
+Argentina,ARG,1993,12926.795
+Argentina,ARG,1994,13571.38
+Argentina,ARG,1995,13086.036
+Argentina,ARG,1996,13715.227
+Argentina,ARG,1997,14722.6455
+Argentina,ARG,1998,15185.959
+Argentina,ARG,1999,14577.832
+Argentina,ARG,2000,14368.942
+Argentina,ARG,2001,13651.981
+Argentina,ARG,2002,12094.772
+Argentina,ARG,2003,13088.565
+Argentina,ARG,2004,14183.226
+Argentina,ARG,2005,15344.157
+Argentina,ARG,2006,16490.473
+Argentina,ARG,2007,17891.943
+Argentina,ARG,2008,18520.305
+Argentina,ARG,2009,17328.977
+Argentina,ARG,2010,18979.992
+Argentina,ARG,2011,20003
+Argentina,ARG,2012,19573.963
+Argentina,ARG,2013,19821.643
+Argentina,ARG,2014,19112.232
+Argentina,ARG,2015,19423.666
+Argentina,ARG,2016,18819.643
+Argentina,ARG,2017,19150.52
+Argentina,ARG,2018,18460.87
+Argentina,ARG,2019,17912.637
+Argentina,ARG,2020,15975.839
+Argentina,ARG,2021,17470.682
+Argentina,ARG,2022,18292.318
+United Kingdom,GBR,1929,8772
+United Kingdom,GBR,1930,8673
+United Kingdom,GBR,1931,8190
+United Kingdom,GBR,1932,8206
+United Kingdom,GBR,1933,8411
+United Kingdom,GBR,1934,8939
+United Kingdom,GBR,1935,9244
+United Kingdom,GBR,1936,9620
+United Kingdom,GBR,1937,9911
+United Kingdom,GBR,1938,9988
+United Kingdom,GBR,1939,9982
+United Kingdom,GBR,1940,10928
+United Kingdom,GBR,1941,11926
+United Kingdom,GBR,1942,12176
+United Kingdom,GBR,1943,12344
+United Kingdom,GBR,1944,11803
+United Kingdom,GBR,1945,11247
+United Kingdom,GBR,1946,10751
+United Kingdom,GBR,1947,10527
+United Kingdom,GBR,1948,10753
+United Kingdom,GBR,1949,11088
+United Kingdom,GBR,1950,11061
+United Kingdom,GBR,1951,11354
+United Kingdom,GBR,1952,11303
+United Kingdom,GBR,1953,11709
+United Kingdom,GBR,1954,12145
+United Kingdom,GBR,1955,12541
+United Kingdom,GBR,1956,12639
+United Kingdom,GBR,1957,12779
+United Kingdom,GBR,1958,12698
+United Kingdom,GBR,1959,13134
+United Kingdom,GBR,1960,13780
+United Kingdom,GBR,1961,14118
+United Kingdom,GBR,1962,14131
+United Kingdom,GBR,1963,14583
+United Kingdom,GBR,1964,15251
+United Kingdom,GBR,1965,15545
+United Kingdom,GBR,1966,15757
+United Kingdom,GBR,1967,16018
+United Kingdom,GBR,1968,16593
+United Kingdom,GBR,1969,16820
+United Kingdom,GBR,1970,17162
+United Kingdom,GBR,1971,17440
+United Kingdom,GBR,1972,18002
+United Kingdom,GBR,1973,19168
+United Kingdom,GBR,1974,18903
+United Kingdom,GBR,1975,18884
+United Kingdom,GBR,1976,19311
+United Kingdom,GBR,1977,19740
+United Kingdom,GBR,1978,20448
+United Kingdom,GBR,1979,20988
+United Kingdom,GBR,1980,20612
+United Kingdom,GBR,1981,20319
+United Kingdom,GBR,1982,20650
+United Kingdom,GBR,1983,21366
+United Kingdom,GBR,1984,21869
+United Kingdom,GBR,1985,22579
+United Kingdom,GBR,1986,23498
+United Kingdom,GBR,1987,24536
+United Kingdom,GBR,1988,25679
+United Kingdom,GBR,1989,26164
+United Kingdom,GBR,1990,26189
+United Kingdom,GBR,1991,25792.014
+United Kingdom,GBR,1992,25790.186
+United Kingdom,GBR,1993,26349.342
+United Kingdom,GBR,1994,27277.543
+United Kingdom,GBR,1995,27861.215
+United Kingdom,GBR,1996,28472.248
+United Kingdom,GBR,1997,29259.764
+United Kingdom,GBR,1998,30077.385
+United Kingdom,GBR,1999,30932.537
+United Kingdom,GBR,2000,31946.037
+United Kingdom,GBR,2001,32660.441
+United Kingdom,GBR,2002,33271.3
+United Kingdom,GBR,2003,34232.426
+United Kingdom,GBR,2004,34865.78
+United Kingdom,GBR,2005,35623.625
+United Kingdom,GBR,2006,36214.07
+United Kingdom,GBR,2007,36816.676
+United Kingdom,GBR,2008,36264.79
+United Kingdom,GBR,2009,34402.36
+United Kingdom,GBR,2010,34754.473
+United Kingdom,GBR,2011,34971
+United Kingdom,GBR,2012,35243.64
+United Kingdom,GBR,2013,35660.56
+United Kingdom,GBR,2014,36521.86
+United Kingdom,GBR,2015,37101.227
+United Kingdom,GBR,2016,37593.906
+United Kingdom,GBR,2017,38283.938
+United Kingdom,GBR,2018,38704.6
+United Kingdom,GBR,2019,39113.01
+United Kingdom,GBR,2020,34651.184
+United Kingdom,GBR,2021,37134.33
+United Kingdom,GBR,2022,38406.53
