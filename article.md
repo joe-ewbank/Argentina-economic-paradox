@@ -20,7 +20,7 @@ At the time, Argentina enjoyed living standards comparable to some of Europe's l
 
 **Graph 1: GDP per capita, 1860–1929**
 
-![GDP per capita, 1860–1929](output/graph1_gdp_1860_1929.png)
+![GDP per capita, 1860–1929](Output/graph1_gdp_1860_1929.png)
 
 Much of this prosperity came from Argentina's position in an increasingly globalised economy. Vast agricultural land, growing European demand for wheat and beef, foreign investment and immigration helped transform the country into a major exporter. *See a photograph of the [grain elevators at Puerto Madero, Buenos Aires, 1910](https://commons.wikimedia.org/wiki/File:Puerto_Madero_Elevadores_de_Granos_%28Olds%29.jpg) (6).*
 
@@ -32,7 +32,7 @@ The following decades brought considerable political upheaval, including six mil
 
 **Graph 2: GDP per capita as a percentage of the UK's, 1930–2000 (8)**
 
-![Argentina's GDP per capita as a percentage of the UK's, 1930–2000](output/graph2_gdp_vs_uk_1930_2000.png)
+![Argentina's GDP per capita as a percentage of the UK's, 1930–2000](Output/graph2_gdp_vs_uk_1930_2000.png)
 
 Argentina's relative economic decline is illustrated in Graph 2, which compares its GDP per capita with Britain's between 1930 and 2000. Although the two economies experienced different economic conditions, the comparison offers a useful benchmark: Argentina's GDP per capita fell from approximately 75% of Britain's in 1930 to around 40% by 2000.
 
@@ -50,7 +50,7 @@ My analysis of World Bank data shows that between 2000 and 2025, net FDI inflows
 
 **Graph 3: Net FDI inflows (% of GDP), 2000–2025**
 
-![Net foreign direct investment inflows, 2000–2025](output/graph3_fdi_2000_2025.png)
+![Net foreign direct investment inflows, 2000–2025](Output/graph3_fdi_2000_2025.png)
 
 Despite its considerable natural resources and educated workforce, Argentina has struggled to attract comparable levels of foreign investment. While FDI is influenced by many factors, recurring economic crises and policy uncertainty may help explain investors' reluctance to commit capital over the long term.
 
@@ -60,7 +60,7 @@ Argentina's monetary instability has persisted into the twenty-first century. Wh
 
 **Graph 4: Annual consumer price inflation, 2000–2025**
 
-![Annual consumer price inflation, 2000–2025](output/graph4_inflation_2000_2025.png)
+![Annual consumer price inflation, 2000–2025](Output/graph4_inflation_2000_2025.png)
 
 *Note: Gaps in Argentina's inflation series coincide with a period of controversy over the reliability of official statistics. In 2013, the IMF censured Argentina over the quality of its inflation and GDP data, lifting the censure in 2016 (11).*
 
