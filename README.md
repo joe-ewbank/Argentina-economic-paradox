@@ -29,17 +29,17 @@ Argentina compared with Spain, France, Italy and Japan during its "golden age".
 ### Graph 2: GDP per capita as a % of the UK's, 1930–2000
 Argentina's long relative decline, with three broad policy periods shaded. The shading is a simplification and does not show that any one policy caused the decline.
 
-![Graph 2](output/graph2_gdp_vs_uk_1930_2000.png)
+![Graph 2](Output/graph2_gdp_vs_uk_1930_2000.png)
 
 ### Graph 3: Foreign direct investment, 2000–2025
 Net FDI inflows as a share of GDP. Argentina had the lowest inflows of the four countries in 19 of the 26 years.
 
-![Graph 3](output/graph3_fdi_2000_2025.png)
+![Graph 3](Output/graph3_fdi_2000_2025.png)
 
 ### Graph 4: Inflation, 2000–2025
 Argentina compared with Brazil, Chile and Uruguay (grey). Gaps in Argentina's line are years with no official IMF data, during a period when the reliability of Argentina's statistics was disputed.
 
-![Graph 4](output/graph4_inflation_2000_2025.png)
+![Graph 4](Output/graph4_inflation_2000_2025.png)
 
 ---
 
