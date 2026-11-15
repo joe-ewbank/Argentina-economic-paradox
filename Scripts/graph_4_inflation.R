@@ -2,7 +2,7 @@
 # Graph 4: Annual consumer price inflation, 2000–2025
 # Argentina highlighted; Brazil, Chile and Uruguay in grey
 # Data: IMF DataMapper export (downloaded 31 October 2026)
-# Output: output/graph4_inflation_2000_2025.png
+# Output: Output/graph4_inflation_2000_2025.png
 # ------------------------------------------------------------
 
 library(tidyverse)
@@ -13,7 +13,7 @@ library(readxl)   # needed to open .xls files
 # The IMF file writes "no data" for missing years, so tell R
 # to treat that as a blank (NA) rather than as text
 inflation <- read_xls(
-  "data/imf-dm-export-20261031.xls",
+  "Data/imf-dm-export-20261031.xls",
   na = c("no data", "")
 )
 
@@ -146,5 +146,5 @@ graph4 <- ggplot(inflation_clean,
 graph4
 
 # --- 6. Save the graph --------------------------------------
-ggsave("output/graph4_inflation_2000_2025.png", graph4,
+ggsave("Output/graph4_inflation_2000_2025.png", graph4,
        width = 9, height = 5.5, dpi = 300, bg = "white")

@@ -2,14 +2,14 @@
 # Graph 2: Argentina's GDP per capita as a % of the UK's, 1930–2000
 # Shaded bands mark three broad (simplified) policy periods
 # Data: Maddison Project Database 2023 (via Our World in Data)
-# Output: output/graph2_gdp_vs_uk_1930_2000.png
+# Output: Output/graph2_gdp_vs_uk_1930_2000.png
 # ------------------------------------------------------------
 
 library(tidyverse)
 library(scales)
 
 # --- 1. Load the data ---------------------------------------
-arg_and_uk <- read_csv("data/arg_and_uk.csv")
+arg_and_uk <- read_csv("Data/arg_and_uk.csv")
 
 # --- 2. Clean the data --------------------------------------
 arg_uk_clean <- arg_and_uk %>%
@@ -153,5 +153,5 @@ graph2 <- ggplot(arg_uk_clean,
 graph2
 
 # --- 5. Save the graph --------------------------------------
-ggsave("output/graph2_gdp_vs_uk_1930_2000.png", graph2,
+ggsave("Output/graph2_gdp_vs_uk_1930_2000.png", graph2,
        width = 9, height = 5.5, dpi = 300, bg = "white")

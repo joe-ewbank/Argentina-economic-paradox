@@ -2,14 +2,14 @@
 # Graph 1: GDP per capita, 1860–1929
 # Argentina compared with Spain, France, Italy and Japan
 # Data: Maddison Project Database 2023 (via Our World in Data)
-# Output: output/graph1_gdp_1860_1929.png
+# Output: Output/graph1_gdp_1860_1929.png
 # ------------------------------------------------------------
 
 library(tidyverse)
 library(scales)
 
 # --- 1. Load the data ---------------------------------------
-gdp <- read_csv("data/gdp-per-capita-with-spain-1860-1929.csv")
+gdp <- read_csv("Data/gdp-per-capita-with-spain-1860-1929.csv")
 
 # --- 2. Clean the data --------------------------------------
 gdp_clean <- gdp %>%
@@ -97,5 +97,5 @@ graph1 <- ggplot(gdp_clean,
 graph1
 
 # --- 5. Save the graph --------------------------------------
-ggsave("output/graph1_gdp_1860_1929.png", graph1,
+ggsave("Output/graph1_gdp_1860_1929.png", graph1,
        width = 9, height = 5.5, dpi = 300, bg = "white")

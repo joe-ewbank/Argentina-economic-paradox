@@ -4,7 +4,7 @@
 # Argentina compared with Brazil, Chile and Mexico
 # Data: World Bank, World Development Indicators
 #       (indicator BX.KLT.DINV.WD.GD.ZS)
-# Output: output/graph3_fdi_2000_2025.png
+# Output: Output/graph3_fdi_2000_2025.png
 # ------------------------------------------------------------
 
 library(tidyverse)
@@ -13,7 +13,7 @@ library(scales)
 # --- 1. Load the data ---------------------------------------
 # The World Bank file has 4 lines of notes at the top, so skip them
 fdi <- read_csv(
-  "data/API_BX.KLT.DINV.WD.GD.ZS_DS2_en_csv_v2_259843.csv",
+  "Data/API_BX.KLT.DINV.WD.GD.ZS_DS2_en_csv_v2_259843.csv",
   skip = 4
 )
 
