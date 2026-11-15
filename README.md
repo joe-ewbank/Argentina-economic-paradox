@@ -24,7 +24,7 @@ All analysis and graphs were made in **R** (tidyverse and ggplot2).
 ### Graph 1: GDP per capita, 1860–1929
 Argentina compared with Spain, France, Italy and Japan during its "golden age".
 
-![Graph 1](output/graph1_gdp_1860_1929.png)
+![Graph 1](Output/graph1_gdp_1860_1929.png)
 
 ### Graph 2: GDP per capita as a % of the UK's, 1930–2000
 Argentina's long relative decline, with three broad policy periods shaded. The shading is a simplification and does not show that any one policy caused the decline.
